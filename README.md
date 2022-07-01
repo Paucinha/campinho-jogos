@@ -1,9 +1,11 @@
 # campinho-jogos
-Atividade em sala
+Atividade em sala 
+Aula Git: Escolha um tema de sua preferência e fale sobre ele
 
-🎮 📱 💻 🧩 
+# 🎮 📱 💻 🧩 
 
-# O que é Jogo 🎲♟️🎳
+# O que é Jogo 
+🎲♟️🎳
 
 Jogo é um termo do latim “jocus” que significa gracejo, brincadeira, divertimento. O conceito de jogo consiste numa atividade física ou intelectual formada por um conjunto de regras e define um indivíduo (ou um grupo) como vencedor e outro como perdedor.
 Os jogos podem ser utilizados para fins educacionais para transmitir o sentido de respeito às regras e a mensagem de que numa disputa entre adversários haverá sempre um que perde e outro que ganha.
